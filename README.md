@@ -14,15 +14,9 @@ format:
 
 example:
 <br />  accepted_pr_check.py
-
-  |
-
-  |INPUT
-
-  -- accepted_pr_history.csv
-  
-  |
-  
-  |OUTPUT
-  
-  -- None
+<br />  |
+<br />  |INPUT
+<br />  -- accepted_pr_history.csv 
+<br />  | 
+<br />  |OUTPUT
+<br />  -- None
