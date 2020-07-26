@@ -13,10 +13,17 @@ format:
   <output> filename
 
 example:
+
   accepted_pr_check.py
+
   |
+
   |INPUT
+
   -- accepted_pr_history.csv
+  
   |
+  
   |OUTPUT
+  
   -- None
