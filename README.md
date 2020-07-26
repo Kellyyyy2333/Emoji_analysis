@@ -8,4 +8,4 @@ ml_model
 
 format:
   
-file name: output filename
+file name: input + output filenames
