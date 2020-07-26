@@ -8,4 +8,15 @@ ml_model
 
 format:
   
-file name: input + output filenames
+<script name>:
+  <input>  filename
+  <output> filename
+
+example:
+  accepted_pr_check.py
+  |
+  |INPUT
+  -- accepted_pr_history.csv
+  |
+  |OUTPUT
+  -- None
