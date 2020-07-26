@@ -1,18 +1,15 @@
 for organizing codes
+<br /> data_processing
+<br /> data_analysis
+<br /> ml_model
 
 
-data_processing
-data_analysis
-ml_model
+<br /> format:
+<br /> <script name>:
+<br />   <input>  filename
+<br />   <output> filename
 
-
-format:
-  
-<script name>:
-  <input>  filename
-  <output> filename
-
-example:
+## example:
 <br />  accepted_pr_check.py
 <br />  |
 <br />  |INPUT
