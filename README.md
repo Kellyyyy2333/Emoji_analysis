@@ -13,8 +13,7 @@ format:
   <output> filename
 
 example:
-<\b>
-  accepted_pr_check.py
+<br />  accepted_pr_check.py
 
   |
 
